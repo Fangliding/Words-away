@@ -5,8 +5,13 @@ body {
     line-height: 1.7;
 }
 
-a:link {
+a {
     color: #7e57c2;
+}
+
+h3 {
+    font-size: 1.2em;
+    font-weight: bold;
 }
 
 .container {
@@ -24,4 +29,12 @@ a:link {
     .container {
         width: 50%;
     }
+}
+
+.text-in {
+    margin-bottom: 0;
+}
+
+.checkboxs {
+    margin-top: 0;
 }
